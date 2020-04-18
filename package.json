@@ -1,0 +1,19 @@
+{
+  "name": "du-analyze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./source/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "iconv-lite": "^0.5.1",
+    "md5": "^2.2.1",
+    "request": "^2.88.2"
+  }
+}
